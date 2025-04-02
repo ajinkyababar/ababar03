@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Ajinkya 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77264&width=600&lines=Nice+to+meet+you!+;Software+engineer+crafting+purposeful+code." alt="Typing SVG" /></a>
 
 <!--
 **ababar03/ababar03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
